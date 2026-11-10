@@ -1,0 +1,29 @@
+TOPIC 1: CRICKET AND SPORTS
+
+Cricket is one of the most popular sports in the world. It is played between two teams, with each team consisting of eleven players. The main objective is to score more runs than the opposing team. Cricket originated in England and gradually became popular in countries such as India, Australia, England, Pakistan, and South Africa.
+
+Cricket has three major international formats: Test cricket, One Day International cricket, and Twenty20 cricket. Test cricket is played over a maximum of five days, while ODI matches consist of 50 overs per team. T20 cricket is a shorter format in which each team gets 20 overs.
+
+India has produced several legendary cricket players, including Sachin Tendulkar, MS Dhoni, Virat Kohli, and Rohit Sharma. These players have contributed significantly to Indian cricket through their performances and achievements.
+
+Modern cricket uses advanced technologies such as Hawk-Eye, UltraEdge, and the Decision Review System. These technologies help umpires make accurate decisions and allow analysts to study player performance. Data analytics is also used to evaluate batting averages, bowling economy, strike rates, and match strategies. Artificial Intelligence is a branch of computer science that focuses on developing machines capable of performing tasks that normally require human intelligence. These tasks include learning, reasoning, problem-solving, understanding language, and recognizing images.
+
+Machine Learning is a subset of Artificial Intelligence that enables computers to learn patterns from historical data. Instead of explicitly programming every decision, developers train models using datasets so that systems can make predictions or classifications.
+
+Deep Learning is a specialized area of Machine Learning that uses artificial neural networks with multiple layers. It is widely used in image recognition, speech recognition, natural language processing, and autonomous vehicles.
+
+Generative AI is a modern area of Artificial Intelligence that can generate new content such as text, images, audio, and computer code. Large Language Models such as Gemini and GPT are trained on large datasets and can understand and generate human-like text.
+
+Retrieval-Augmented Generation, commonly known as RAG, combines information retrieval with language models. It retrieves relevant information from external documents or vector databases and provides that information as context to a language model before generating an answer.
+
+AI agents are systems that can understand objectives, make decisions, use external tools, and perform multi-step tasks. Frameworks such as LangChain and Google Agent Development Kit help developers build applications involving language models, tools, memory, and agent workflows. Agriculture is one of the oldest and most important occupations in human civilization. It involves cultivating crops, raising livestock, and producing food and other agricultural products. Agriculture plays a major role in the economy of countries such as India.
+
+Traditional farming methods depend heavily on rainfall, soil conditions, seasonal patterns, and manual labour. Farmers commonly cultivate crops such as rice, wheat, sugarcane, cotton, and vegetables. Soil fertility and water availability are important factors that determine agricultural productivity.
+
+Modern agriculture uses advanced technologies to improve crop production and reduce operational costs. Drip irrigation helps deliver water directly to plant roots, reducing water wastage. Greenhouse farming allows farmers to control environmental conditions such as temperature, humidity, and light.
+
+Organic farming focuses on natural fertilizers, compost, crop rotation, and biological pest management. It aims to reduce dependence on synthetic fertilizers and pesticides while maintaining soil health.
+
+Precision agriculture uses technologies such as GPS, sensors, drones, satellite imagery, and data analytics. These technologies help farmers monitor soil moisture, identify crop diseases, measure plant health, and optimize fertilizer usage.
+
+Artificial Intelligence is also transforming agriculture. Machine learning models can predict crop diseases, estimate agricultural yields, identify suitable crops based on soil conditions, and optimize irrigation schedules. In the future, smart farming systems may combine robotics, IoT sensors, and AI-based decision-making to improve agricultural productivity.

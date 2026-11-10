@@ -1,0 +1,51 @@
+{
+    "dataset": "Sample International Cricket Players",
+    "description": "Fictionalized teaching dataset with illustrative statistics for document-loader practice.",
+    "players": [
+        {
+            "player_id": 1,
+            "name": "Virat Kohli",
+            "country": "India",
+            "role": "Batter",
+            "matches": 292,
+            "runs": 13848,
+            "average": 58.18
+        },
+        {
+            "player_id": 2,
+            "name": "Rohit Sharma",
+            "country": "India",
+            "role": "Batter",
+            "matches": 265,
+            "runs": 10866,
+            "average": 49.16
+        },
+        {
+            "player_id": 3,
+            "name": "Jasprit Bumrah",
+            "country": "India",
+            "role": "Bowler",
+            "matches": 89,
+            "runs": 89,
+            "average": 8.09
+        },
+        {
+            "player_id": 4,
+            "name": "Ben Stokes",
+            "country": "England",
+            "role": "All-rounder",
+            "matches": 114,
+            "runs": 6117,
+            "average": 37.53
+        },
+        {
+            "player_id": 5,
+            "name": "Kane Williamson",
+            "country": "New Zealand",
+            "role": "Batter",
+            "matches": 165,
+            "runs": 6755,
+            "average": 48.89
+        }
+    ]
+}
